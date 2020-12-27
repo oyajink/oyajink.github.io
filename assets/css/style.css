@@ -116,6 +116,10 @@
             border: 1px solid #7247B8;
             transition: .5s ease;
           }
+          .navbar {
+            width: 100%;
+            position: fixed;
+          }
           .progress-bar {
             background-color: #7247B8;
             display: inline;
