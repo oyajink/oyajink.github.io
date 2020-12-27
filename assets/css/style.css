@@ -1,6 +1,9 @@
           /* html {
             scroll-behavior: smooth;
           } */
+          html,body{
+            overflow-x: hidden;
+          }
           .about hr, .resume hr, .portofolio hr, .hobby hr, .contact hr{
             max-width: 150px;
             border-top: 3px solid #7247B8;
