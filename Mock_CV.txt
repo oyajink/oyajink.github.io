@@ -1,0 +1,16 @@
+Komponen CV online:
+
+Menu: 
+- Home
+- About
+- Job Experience
+- Portofolio
+- Skill
+
+Header:
+Hero, Carousel
+
+Content: Sesuai Menu, modal
+
+Footer: Social Media Account, Contact
+
