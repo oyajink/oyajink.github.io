@@ -1,0 +1,273 @@
+{
+    "title": [
+        {
+            "main": "Yulius Widiatmoko",
+            "main_skill": "Designer | Web Programming",
+            "bg-img": "assets/img/cloud.jpg"
+        }
+    ],
+    "about": [
+        {
+            "caption": "Hallo, perkenalkan saya Yulius Widiatmoko. Saat ini saya sedang mencari pekerjaan yang sesuai dengan skill/kemampuan saya dibidang programming dan media. Melalui resume ini kiranya bisa menjadi bahan pertimbangan Bapak/Ibu.",
+            "data_diri": [
+                   {
+                        "caption": "Berikut Ini merupakan data pribadi saya sesungguhnya:",
+                        "nama": "Yulius Widiatmoko",
+                        "ttl": "Karanganyar, 30 Juli 1993",
+                        "umur": "<span id=\"agee\"></span>"
+                   }
+            ],
+            "foto": "assets/img/DSC_1393ac.jpg",
+            "link": [
+                {
+                    "url": "https://web.facebook.com/ywidiatmoko1",
+                    "class": "facebook",
+                    "iclass": "fa fa-facebook-square fa-lg"
+                },
+                {
+                    "url": "https://twitter.com/yulius_w",
+                    "class": "twitter",
+                    "iclass": "fa fa-twitter fa-lg"
+                },
+                {
+                    "url": "https://www.instagram.com/yuliuswidiatmoko/",
+                    "class": "instagram",
+                    "iclass": "fa fa-instagram fa-lg"
+                },
+                {
+                    "url": "https://github.com/oyajink",
+                    "class": "github",
+                    "iclass": "fa fa-github fa-lg"
+                },
+                {
+                    "url": "https://www.linkedin.com/in/yulius-widiatmoko-3a49721a0/",
+                    "class": "linkedin",
+                    "iclass": "fa fa-linkedin fa-lg"
+                }
+            ]
+        }
+    ],
+    "resume": [
+        {
+            "caption": "Pada bagian resume ini memaparkan riwayat studi formal, non-formal, dan pengalaman berkarir dalam format timeline.",
+            "pendidikan":[
+                 {
+                    "sekolah": "Universitas Kristen Surakarta",
+                    "link": "http://uks.ac.id",
+                    "deskripsi": "Fakultas Teknik, Jurusan Teknik Informatika.",
+                    "tahun": "2011 - 2016"
+                 },
+                 {
+                    "sekolah": "SMK Adisumarmo Colomadu",
+                    "link": "https://smkadisumarmo.sch.id/",
+                    "deskripsi": "Jurusan Teknik Audio/Video.",
+                    "tahun": "2008 - 2011"
+                 },
+                 {
+                    "sekolah": "SMPN 03 Colomadu",
+                    "link": "http://www.smpn3colomadu.sch.id/",
+                    "deskripsi": "",
+                    "tahun": "2005 - 2008"
+                 },
+                 {
+                    "sekolah": "SDN 02 Gedongan",
+                    "link": "",
+                    "deskripsi": "",
+                    "tahun": "1999 - 2005"
+                 }
+
+            ],
+            "karir":[
+                {
+                    "perusahaan": "Yayasan Lembaga SABDA",
+                    "link": "https://ylsa.org",
+                    "bidang": "Pelayanan Kristen Digital",
+                    "deskripsi": "Yayasan Lembaga SABDA merupakan lembaga pelayanan Kristen nonprofit dan nonkomersial yang berfokus dalam penyediaan Alkitab Elektronik, alat-alat biblika dan bahan kekristenan yang bermutu. Disini saya bekerja dibagian Web Developer, Editor, dan Desain Grafis.",
+                    "tahun": "2019 - Sekarang"
+                },
+                {
+                    "perusahaan": "CV. Sinergi Multi Usaha",
+                    "link": "",
+                    "bidang": "Retail",
+                    "deskripsi": "Merupakan perusahaan yang bergerak dibidang retail (penjualan ponsel pintar) yang memiliki 11 cabang di area surakarta. Disini saya pernah bekerja sebagai IT Support dan Audit internal.",
+                    "tahun": "2018 - 2019"
+                }
+
+            ],
+            "organisasi":[
+                {
+                    "nama_organisasi": "RevoU",
+                    "link": "",
+                    "deskripsi": "Menjadi peserta program online course gratis dari RevoU, membahas topik tentang <em>Data Analitycs</em> selama 2 minggu.",
+                    "tahun": "2022"
+                }
+
+            ]
+        }
+
+    ],
+    "portofolio": [
+        {
+        "caption": "Beberapa projek yang sudah pernah saya kerjakan, baik itu projek dari perusahaan maupun projek pribadi dalam bentuk gallery foto.",
+        "konten":[
+                {
+                    "title": "Proyek Flyer SABDA Live",
+                    "thumbs": "assets/img/thumbs/thumbs_20201211_natalpreneur_inovasi_dan_kreativitas.jpg",
+                    "img": "assets/img/20201211_natalpreneur_inovasi_dan_kreativitas.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Quote Gambar e-BinaAnak",
+                    "thumbs": "assets/img/thumbs/thumbs_quote_binaanak.jpg",
+                    "img": "assets/img/quote_binaanak.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Promosi Diskusi Pemuridan",
+                    "thumbs": "assets/img/thumbs/thumbs_promosi_diskusi.jpg",
+                    "img": "assets/img/promosi_diskusi.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Kolase Panitia Codeforgod",
+                    "thumbs": "assets/img/thumbs/thumbs_kolase_codeforgod.jpg",
+                    "img": "assets/img/kolase_codeforgod.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Desain Ucapan Natal &amp; Tahun Baru 2021 YLSA",
+                    "thumbs": "assets/img/thumbs/thumbs_natal_ucapan_2020.jpg",
+                    "img": "assets/img/natal_ucapan_2020.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Menyusun HTML publikasi artikel dari seluruh bidang pelayanan DRM YLSA",
+                    "thumbs": "assets/img/thumbs/thumbs_suarasabda.jpg",
+                    "img": "assets/img/suarasabda.png",
+                    "href": "https://sabda.org/publikasi/suara_sabda/031",
+                    "type": "link"
+                },
+                {
+                    "title": "Channel Youtube Saya",
+                    "thumbs": "assets/img/thumbs/thumbs_youtubee.jpg",
+                    "img": "assets/img/youtubee.png",
+                    "href": "https://www.youtube.com/channel/UCCZbYrAom3_o6XKth3YIVXw",
+                    "type": "link"
+                },
+                {
+                    "title": "Karya Musik di Platform Soundcloud",
+                    "thumbs": "assets/img/thumbs/thumbs_soundc.jpg",
+                    "img": "assets/img/soundc.png",
+                    "href": "https://soundcloud.com/yulius-widiatmoko",
+                    "type": "link"
+                },
+                {
+                    "title": "Brosur promosi acara Natal IG Live YLSA",
+                    "thumbs": "assets/img/thumbs/thumbs_20221219_iglive_natal_ylsa_live.jpg",
+                    "img": "assets/img/20221219_iglive_natal_ylsa_live.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi Kelas Diskusi Langsung SABDA Live",
+                    "thumbs": "assets/img/thumbs/thumbs_20221102_kdl_transmisi_alkitab.jpg",
+                    "img": "assets/img/20221102_kdl_transmisi_alkitab.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi IG Live Kenal Sahabat SABDA",
+                    "thumbs": "assets/img/thumbs/thumbs_20221010_kenal_sahabat_sabda.jpg",
+                    "img": "assets/img/20221010_kenal_sahabat_sabda.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi seminar Alkitab Pintar",
+                    "thumbs": "assets/img/thumbs/thumbs_20221004_alkitab_pintar.jpg",
+                    "img": "assets/img/20221004_alkitab_pintar.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi kelas MLC IDK",
+                    "thumbs": "assets/img/thumbs/thumbs_20220928_identitasku_di_dalam_kristus.jpg",
+                    "img": "assets/img/20220928_identitasku_di_dalam_kristus.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi diskusi klub buku KBBS",
+                    "thumbs": "assets/img/thumbs/thumbs_20220927_kbbs_temu_anggota_kbbs.jpg",
+                    "img": "assets/img/20220927_kbbs_temu_anggota_kbbs.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi seminar seri GoPray",
+                    "thumbs": "assets/img/thumbs/thumbs_20220819_gopray_doa_merdeka.jpg",
+                    "img": "assets/img/20220819_gopray_doa_merdeka.jpg",
+                    "href": "",
+                    "type": "images"
+                },
+                {
+                    "title": "Brosur promosi kelas bedah kitab",
+                    "thumbs": "assets/img/thumbs/thumbs_20220330_bedah_paskah_menurut_lukas.jpg",
+                    "img": "assets/img/20220330_bedah_paskah_menurut_lukas.jpg",
+                    "href": "",
+                    "type": "images"
+                }
+            ]
+        }
+    ],
+    "hobby": [
+        {
+            "caption": "Merupakan salah satu kegiatan pribadi yang dapat mengurangi stress, supaya memiliki mental yang selalu sehat. Berikut ini adalah beberapa hobi saya:",
+            "lists": "<li>Bermain Video Game</li><li>Bersepeda Santai</li><li>Pelihara Hewan</li><li>Menanam Tanaman</li>"
+        }
+    ],
+    "skills": [
+        {
+            "caption": "Pengalaman merupakan guru terbaik, saya bersyukur melalui pengalaman hidup ini, saya dapat belajar beberapa hal dan memiliki skill yang akan terus saya kembangkan.",
+            "skilllist": [
+                {
+                   "nama_skill": "HTML",
+                   "progress": "90"
+                },
+                {
+                    "nama_skill": "CSS",
+                    "progress": "60"
+                },
+                {
+                    "nama_skill": "Javascript",
+                    "progress": "40"
+                },
+                {
+                    "nama_skill": "PHP",
+                    "progress": "60"
+                },
+                {
+                    "nama_skill": "Corel Draw",
+                    "progress": "70"
+                },
+                {
+                    "nama_skill": "Office",
+                    "progress": "70"
+                },
+                {
+                    "nama_skill": "Adobe Premiere",
+                    "progress": "70"
+                },
+                {
+                    "nama_skill": "Komunikasi",
+                    "progress": "50"
+                }
+            ]
+        }
+    ]
+}
